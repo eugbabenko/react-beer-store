@@ -1,0 +1,25 @@
+.container {
+    margin: 0 15px;
+}
+
+.AppFooter {
+    padding: 0 100px;
+    height: 100px;
+    border-top: 2px solid rgb(160, 155, 155);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phone {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.socialMedia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
